@@ -37,7 +37,7 @@ elif pilih =="2":
         time.sleep(1)
         print "[+] Lalu ketik $ python2 DarkFb.py"
 elif pilih == "3":
-                  os.system('git clone https://github.com/B4N954N2-ID/DarkPremium')
+        os.system('git clone https://github.com/B4N954N2-ID/DarkPremium')
         time.sleep(1)
         print "[+] Penginstallan Selesai"
         time.sleep(1)
