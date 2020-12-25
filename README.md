@@ -1,47 +1,39 @@
 import os
-import os
+import sys
 import time
 
 os.system('clear')
-tim.sleep (1)
-os.system('figlet M.A_28')
-print"======================================"
-print " NAME TOOLS || TOOLS HACK FB "
-print "                   NIK || M.A_28 "
-print "             TOOLS HACK FB "
-print"======================================"
+time.sleep(1)
+os.system('figlet Hack FB')
+print "======================================"
+print " Facebook : Syamsul.Hakim.8"
+print " Instagram: Matahari_Bijaksana"
+print " Github   : https://github.com/Anonymous-Sasak-Indonesia"
+print "======================================"
 print
-tim.sleep (1)
-print "[+]menu pilih [+]"
-print "[1]Dark FBv1.7"
-print "[2]Dark FBv1.026"
-print "[3]Dark FB prmium"
-print "[4]Dark FBv2.0"
-print "[5]Install bahan "
-pilih = raw_input( ' [?] pilih : ' )
+time.sleep(1)
+print "[+] Menu Pilihan [+]"
+print "[1] Dark Fbv1.7"
+print "[2] Dark Fbv2.8"
+print "[3] Dark Fb Premium"
+print "[4] Dark Fbv2.0"
+print "[5] Install Bahan"
+time.sleep(1)
+pilih = raw_input('[?] Pilih : ')
 if pilih == "1":
-        os.system ( 'git clone https://github.com/Anonymous-Sasak-Indonesia/prmium')
-        tim.sleep (1)
-        print "[+] penginstallan selesai "
-        tim.sleep (1)
-        print "[+] pilih selajut nya ketikan $ cd Dark "
-        tim.sleep (1)
-        print "lalu ketikan $ python Darkfb.py"
-elif pilih == "2"
-        os.system( 'git clone https://github.com/Anonymous-Sasak-Indonesia/prmium')
-        tim.sleep (1)
-         print "[+] penginstallan selesai "
-        tim.sleep (1)
-         print "[+] pilih selajut nya ketikan $ cd Darkfb"
-        tim.sleep (1)
-         print "lalu ketikan $ python Darkfb.py"
-elif pilih == "3"
-         os.system( 'git clone https://github.com/Anonymous-Sasak-Indonesia/prmium')
-        tim.sleep (1)
-         print "[+] penginstallan selesai "
-        tim.sleep (1)
-         print "[+] pilih selajut nya ketikan $ cd prmium"
-        tim.sleep (1)
-         print "lalu ketikan $ python Darkprmium.py"
-elif pilih == "4"
-         os.system( 'git clone https://>github.com/Anonymous-Sasak-Indonesia/prmium
+        os.system('git clone https://github.com/B4N954N2-ID/Dark')
+        time.sleep(1)
+        print "[+] Penginstallan Selesai"
+        time.sleep(1)
+        print "[+] Selanjutnya ketik $ cd Dark"
+        time.sleep(1)
+        print "[+] Lalu ketik $ python2 darkfb.py"
+elif pilih =="2":
+        os.system('git clone https://github.com/B4N954N2-ID/DarkFb')
+        time.sleep(1)
+        print "[+] Penginstallan Selesai"
+        time.sleep(1)
+        print "[+] Selanjutnya ketik $ cd DarkFb"
+        time.sleep(1)
+        print "[+] Lalu ketik $ python2 DarkFb.py"
+elif pilih == "3":
