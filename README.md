@@ -37,3 +37,27 @@ elif pilih =="2":
         time.sleep(1)
         print "[+] Lalu ketik $ python2 DarkFb.py"
 elif pilih == "3":
+                  os.system('git clone https://github.com/B4N954N2-ID/DarkPremium')
+        time.sleep(1)
+        print "[+] Penginstallan Selesai"
+        time.sleep(1)
+        print "[+] Selanjutnya ketik $ cd DarkPremium"
+        time.sleep(1)
+        print "[+] Lalu ketik $ python2 darkpremium.py"
+elif pilih == "4":
+        os.system('git clone https://github.com/B4N954N2-ID/dark-fb')
+        time.sleep(1)
+        print "[+] Penginstallan Selesai"
+        time.sleep(1)
+        print "[+] Selanjutnya ketik $ cd dark-fb"
+        time.sleep(1)
+        print "[+] Lalu ketik $ python2 darkfb.py"
+elif pilih == "5":
+        os.system('apt update && apt upgrade')
+        os.system('pkg install python2')
+        os.system('pkg install nano')
+        os.system('pkg install git')
+        os.system('pip2 install requests mechanize')
+        time.sleep(1)
+        print "[+] Penginstallan Selesai"
+© 2020 GitHub, Inc.
