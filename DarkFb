@@ -4,7 +4,7 @@ import time
 
 os.system('clear')
 time.sleep(1)
-os.system('figlet Hack FB')
+os.system('HAKIM')
 print "======================================"
 print " Facebook : Syamsul.Hakim.8"
 print " Instagram: Matahari_Bijaksana"
@@ -60,4 +60,3 @@ elif pilih == "5":
         os.system('pip2 install requests mechanize')
         time.sleep(1)
         print "[+] Penginstallan Selesai"
-© 2020 GitHub, Inc.
